@@ -64,7 +64,7 @@ public class Employee {
 		return phno;
 	}
 
-	public void setPhno(String mobile) {
+	public void setPhno(String phno) {
 		this.phno = phno;
 	}
 
